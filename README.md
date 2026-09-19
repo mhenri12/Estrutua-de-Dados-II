@@ -1,2 +1,5 @@
 # Estrutura-de-Dados-II
-projeto realizado em estruturas de dados I usando structure
+Atividades realizadas durante cada aula de Estrutura de Dados II 
+
+Prof: Kadidja
+Uni: UDF
